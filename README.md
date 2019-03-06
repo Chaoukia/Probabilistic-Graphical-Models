@@ -11,7 +11,7 @@ Linear classifitcation and comparison between 4 models: LDA, linear regression, 
 
 ### 3rd homework: 
 - Hidden Markov models and alpha-beta recursion. 
-- EM algorithm and Vitterbi max-product algorithm. 
+- EM algorithm and Viterbi max-product algorithm. 
 - Comparision with the previous homework.
 
 
